@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Bear Cookies",
+        "description": "Dairy-free | Gluten-free",
+        "price": 4.99,
+        "image": "images/bearcookie.jpeg",
+        "category": "Cookies",
+        "calories": 120
+    },
+
+    {
+        "name": "Assorted Cakes",
+        "description": "Nut-free",
+        "price": 13.99,
+        "image": "images/assortedcake.png",
+        "category": "Cakes",
+        "calories": 250
+    },
+
+    {
+        "name": "Bear Cake",
+        "description": "Nut-free",
+        "price": 5.99,
+        "image": "images/bearcake.jpeg",
+        "category": "Cakes",
+        "calories": 300
+    },
+
+    {
+        "name": "Bear Macaron",
+        "description": "Gluten-free",
+        "price": 3.99,
+        "image": "images/bearmacaroon.jpeg",
+        "category": "Macarons",
+        "calories": 115
+    },
+
+    {
+        "name": "Cat Macaron",
+        "description": "Gluten-free | Nut-free",
+        "price": 3.99,
+        "image": "images/catmacaroon.jpeg",
+        "category": "Macarons",
+        "calories": 130
+    }
+]
